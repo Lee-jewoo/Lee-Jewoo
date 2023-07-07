@@ -8,6 +8,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-## 🥔<br>
+### 🥔🥔🥔🥔🥔<br>
 
-[Email](zeus0801@naver.com)
+### 개발자가 되기 위한 과정 기록
+[Notion_백엔드 교육과정_멀티캠퍼스_15회차](https://2zeus.notion.site/KDT-acc2885514d84aa4a1d714f37fc2dae6?pvs=4)
