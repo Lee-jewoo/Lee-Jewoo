@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=LEE%20ZEUS&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEE%20ZEUS&fontSize=70)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Lee-Jewoo)](https://github.com/Lee-Jewoo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jewoo)](https://github.com/Lee-Jewoo/github-readme-stats)<br>
 
