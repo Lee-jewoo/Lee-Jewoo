@@ -8,7 +8,7 @@
 
 ### 🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔<br>
 ### 개발자가 되기 위한 과정을 기록했습니다.
-<img src="https://github.com/Lee-jewoo/Lee-Jewoo/assets/137736223/c7f9055e-2312-4464-a58f-a29cba26e1bb" width="20"> [_Notion_프로그래머스 코딩테스트 연습_Python](https://2zeus.notion.site/Python-dfbe8994b5594d62a3772c7c89660407?pvs=4)<br>
-<img src="https://github.com/Lee-jewoo/Lee-Jewoo/assets/137736223/c7f9055e-2312-4464-a58f-a29cba26e1bb" width="20"> [_Notion_백엔드 교육과정 예습_Java](https://2zeus.notion.site/Java-f7466b9fee6f486fb4eefe35f00acb13?pvs=4)<br>
+<img src="https://github.com/Lee-jewoo/Lee-Jewoo/assets/137736223/c7f9055e-2312-4464-a58f-a29cba26e1bb" width="20"> [_Notion_Python 코딩테스트 연습](https://2zeus.notion.site/Python-dfbe8994b5594d62a3772c7c89660407?pvs=4)<br>
+<img src="https://github.com/Lee-jewoo/Lee-Jewoo/assets/137736223/c7f9055e-2312-4464-a58f-a29cba26e1bb" width="20"> [_Notion_Java 코딩테스트 연습](https://2zeus.notion.site/Java-f7466b9fee6f486fb4eefe35f00acb13?pvs=4)<br>
 <img src="https://github.com/Lee-jewoo/Lee-Jewoo/assets/137736223/c7f9055e-2312-4464-a58f-a29cba26e1bb" width="20"> [_Notion_백엔드 교육과정_멀티캠퍼스_15회차](https://2zeus.notion.site/KDT-acc2885514d84aa4a1d714f37fc2dae6?pvs=4)<br>
 
