@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jewoo)](https://github.com/Lee-Jewoo/github-readme-stats)<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zeus0801)](https://solved.ac/zeus0801)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 
